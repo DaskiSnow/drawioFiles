@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-28T01:24:14.113Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="MJ8RaPVBvqoauXOzor_k" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-28T01:25:12.237Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="g8ATz2fjQJF5XI_W6chs" version="24.3.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1194" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
             <mxPoint x="405.5" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pa1Bo0sml9TkQDMnMJX8-52" value="通过回调地址，返回推理结果 json 和 jpeg 图片" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="Pa1Bo0sml9TkQDMnMJX8-51">
+        <mxCell id="Pa1Bo0sml9TkQDMnMJX8-52" value="正常：通过回调地址，返回推理结果 json&lt;br&gt;异常：通过回调地址，返回推理结果 json 和 jpeg 图片" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="Pa1Bo0sml9TkQDMnMJX8-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pa1Bo0sml9TkQDMnMJX8-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.454;entryY=0.031;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Pa1Bo0sml9TkQDMnMJX8-36" target="Pa1Bo0sml9TkQDMnMJX8-48">
