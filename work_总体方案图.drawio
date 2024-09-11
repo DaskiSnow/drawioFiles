@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-09-11T12:01:01.764Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" etag="qxkBN7_0ijLT-AIHEX5E" version="24.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-09-11T12:01:42.760Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" etag="C9Ru86vUF5o_0DPB0ta6" version="24.4.3" type="github">
   <diagram name="第 1 页" id="RA2dW2QIf4sX7xkVH5Dw">
     <mxGraphModel dx="1194" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,13 +46,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c4xiFc3Pp5Zp70a9VGpr-17" value="数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="215" y="130" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="c4xiFc3Pp5Zp70a9VGpr-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="c4xiFc3Pp5Zp70a9VGpr-27" target="c4xiFc3Pp5Zp70a9VGpr-17">
+        <mxCell id="c4xiFc3Pp5Zp70a9VGpr-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="c4xiFc3Pp5Zp70a9VGpr-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="430" as="sourcePoint" />
-            <mxPoint x="440" y="380" as="targetPoint" />
+            <mxPoint x="275" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c4xiFc3Pp5Zp70a9VGpr-20" value="数据存储/数据查询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c4xiFc3Pp5Zp70a9VGpr-18">
@@ -76,6 +73,9 @@
         </mxCell>
         <mxCell id="c4xiFc3Pp5Zp70a9VGpr-27" value="数据库模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="265" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c4xiFc3Pp5Zp70a9VGpr-29" value="数据库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="245" y="130" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
